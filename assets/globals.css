@@ -1,0 +1,15 @@
+
+.product-shadow {
+  box-shadow: 1px 1px 6px #9b40d699;
+}
+
+* {
+  letter-spacing: -0.4px;
+}
+
+.text-primary {
+  color: rgb(165, 23, 186);
+}
+.bg-primary {
+  background-color: rgb(165, 23, 186);
+}
